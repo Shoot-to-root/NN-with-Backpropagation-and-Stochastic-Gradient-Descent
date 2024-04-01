@@ -2,7 +2,7 @@
 - process_energy_data.py
 - process_ionosphere_data.py
 
-# model architecture
+# model 
 - classifier.py
 - regressor.py
 
